@@ -1,5 +1,11 @@
 <?xml version="1.0"?>
 <config>
+    <tabs>
+        <devopsall translate="label">
+            <label><![CDATA[<div style="line-height: 28px;" >Devopensource</div>]]></label>
+            <sort_order>100000</sort_order>
+        </devopsall>
+    </tabs>
     <sections>
         <productaddons translate="label" module="productaddons">
             <label>ProductAddons</label>
